@@ -1,4 +1,4 @@
-### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kevwe Olomu!
+## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kevwe Olomu!
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kevwe_Olomu?style=social)
 
 I am many things - a doctoral research, a data analyst, a full stack JavaScript developer, but most of all, a passionate and lifelong learner.
@@ -9,7 +9,7 @@ Also proficient in research designs and development, data management, analysis, 
 
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 |<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="hmtl-logo" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>|<img src="" alt="" width="50" height="50"/>|
 
