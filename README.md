@@ -22,27 +22,25 @@ Also proficient in research designs and development, data management, analysis, 
 
 ## &#x1f4c8; My GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevwe_Olomu&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevweolomu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevwe_Olomu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8)](https://github.com/kevweolomu/github-readme-stats)
 
-[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevwe_Olomu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olomu)](https://github.com/kevweolomu/github-readme-stats)
 
-<!--
 **Kevwe_Olomu/Kevwe_Olomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Family social media app
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a family social media app
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on projects using next.js and gatsby
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with other content creators
+- 📫 How to reach me: via linkedin or email
 - 😄 Pronouns: She / Her / Hers
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love learning new concepts, taking long walks and cooking
 
 ---
 
