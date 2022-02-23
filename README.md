@@ -30,6 +30,11 @@ Also proficient in research designs and development, data management, analysis, 
 
 [![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevweolomu)](https://github.com/kevweolomu/github-readme-stats)
 
+[![Kevwe's wakatime](https://wakatime.com/badge/user/fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f.svg)](https://wakatime.com/@fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f)
+
+https://wakatime.com/badge/user/fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f.svg
+
+
 **Kevwe Olomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
