@@ -20,17 +20,17 @@ Also proficient in research designs and development, data management, analysis, 
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Kevwe's GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevweolomu&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8)](https://github.com/kevweolomu/github-readme-stats)
 
-[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical)](https://github.com/kevweolomu/github-readme-stats)
 
-[![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olomu)](https://github.com/kevweolomu/github-readme-stats)
+[![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevweolomu)](https://github.com/kevweolomu/github-readme-stats)
 
-**Kevwe_Olomu/Kevwe_Olomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kevwe Olomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -40,7 +40,27 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with other content creators
 - 📫 How to reach me: via linkedin or email
 - 😄 Pronouns: She / Her / Hers
-- ⚡ Fun fact: I love learning new concepts, taking long walks and cooking
+
+
+
+# ⚡ Fun fact about me 🌞
+- Doctoral Researcher in Environmental Studies
+- Graduate of Biochemistry (B.Sc) and Environmental Assessment and Management (M.Sc)
+- Data Analyst
+- Arsenal Fan
+- Foodie
+- Data Analyst
+
+
+
+## Get in touch!
+- ✉️ kevweolomu@yahoo.ca 
+[![website](./img/twitter-light.svg)](https://twitter.com/Kevwe_Olomu-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Kevwe_Olomu-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kevwe-olomu-55295a4a/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kevwe-olomu-55295a4a/-dark-mode-only)
+&nbsp;&nbsp;
 
 ---
 
