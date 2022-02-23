@@ -30,14 +30,6 @@ Also proficient in research designs and development, data management, analysis, 
 
 [![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevweolomu)](https://github.com/kevweolomu/github-readme-stats)
 
-[![Kevwe's wakatime](https://wakatime.com/badge/user/fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f.svg)](https://wakatime.com/@fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f)
-
-https://wakatime.com/badge/user/fd6ab4c8-458f-4c4e-9d6c-bcc51352a93f.svg
-
-
-**Kevwe Olomu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a family social media app
 - 🌱 I’m currently learning everything
@@ -60,13 +52,6 @@ Here are some ideas to get you started:
 
 ## Get in touch!
 - ✉️ kevweolomu@yahoo.ca 
-[![website](./img/twitter-light.svg)](https://twitter.com/Kevwe_Olomu-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Kevwe_Olomu-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/kevwe-olomu-55295a4a/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/kevwe-olomu-55295a4a/-dark-mode-only)
-&nbsp;&nbsp;
-
 ---
 
 
