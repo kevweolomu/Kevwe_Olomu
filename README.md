@@ -11,7 +11,7 @@ Also proficient in research designs and development, data management, analysis, 
 
 ## 🧰 Toolbox
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="hmtl-logo" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/> | <img src="" alt="" width="50" height="50"/> |
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="hmtl-logo" width="50" height="50"/>          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>          <img src="" alt="" width="50" height="50"/>
 
 
 |<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="typescript-log" width="50" height="50"/>|<img src="" alt="" width="50" height="50"/>|
