@@ -24,9 +24,9 @@ Also proficient in research designs and development, data management, analysis, 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kevweolomu&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8)](https://github.com/kevweolomu/github-readme-stats)
+[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical&show_icons=true)](https://github.com/kevweolomu)
 
-[![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical)](https://github.com/kevweolomu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8&theme=algolia)](https://github.com/kevweolomu)
 
 [![Kevwe's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevweolomu)](https://github.com/kevweolomu/github-readme-stats)
 
