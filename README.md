@@ -1,17 +1,44 @@
-## Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kevwe Olomu!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23D87093&size=15&lines=Hello+there%2C+nice+to+meet+you.+I+am+Kevwe!)](https://git.io/typing-svg)
+![](banner/githubBanner.png) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kevwe_Olomu?style=social)
 
-I am many things - a doctoral research, a data analyst, a full stack JavaScript developer, but most of all, a passionate and lifelong learner.
+I am many things:
+- a doctoral research
+- a data analyst
+- a full stack developer
 
-Over a 4-month period, I had gone from barely knowing anything about frontend or backend technology, to coding functional applications using a range of industry-standard technology.
-
-Also proficient in research designs and development, data management, analysis, and interpretation for driving solutions and has a good eye for detail. 
+But most of all, a passionate and lifelong learner.
 
 ---
 
-## 🧰 Toolbox
+## Programming and Tech Stack
+#### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![R](https://img.shields.io/badge/R-563D7C?style=for-the-badge&logo=r&logocolor=blue)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original-wordmark.svg" alt="hmtl-logo" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" alt="typescript-log" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" alt="npm-logo" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" alt="express-logo" width="50" height="50"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" alt="react-logo" width="50" height="50"/>          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" alt="jest-logo" width="50" height="50"/>         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/storybook/storybook-original-wordmark.svg" alt="storybook-logo" width="50" height="50"/>         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-line.svg" alt="next-logo" width="50" height="50" />      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-original-wordmark.svg" alt="heroku-logo" width="50" height="50"/>   <img src="https://tse3.mm.bing.net/th?id=OIP.zdhsRFGtpcDJb05uYI24KgHaCy&pid=Api&P=0&w=460&h=173" alt="netlify-logo" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" alt="mysql-logo" width="50" height="50" />   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql-logo" width="50" height="50" />   <img src="https://tse2.mm.bing.net/th?id=OIP.5gf2JQQmWla-GU-WXTrGcgHaE8&pid=Api&P=0&w=251&h=167" alt="nodejs-logo" width="50" height="50"/>   <img src="https://tse3.mm.bing.net/th?id=OIP.fGofz99Sl9aGwYnCWDu0NwHaGp&pid=Api&P=0&w=207&h=186" alt="postman-logo" width="50" height="50"/>  <img src="https://tse2.mm.bing.net/th?id=OIP.LhmmwrSjn4Nhu7ryBWeTCgAAAA&pid=Api&P=0&w=268&h=179" alt="drawio-logo" width="50" height="50"/>  <img src="https://tse2.mm.bing.net/th?id=OIP.l6j4RsmErtRw4lAmhuEMbAHaFR&pid=Api&P=0&w=246&h=174" alt="figma-logo" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" alt="vscode-logo" width="50" height="50"/>    <img src="https://tse3.explicit.bing.net/th?id=OIP.LhP_9Mg7jSkMxu3BpWTVbwHaEH&pid=Api&P=0&w=303&h=168" alt="mira-logo" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/rstudio/rstudio-original.svg" alt="r-logo" width="50" height="50"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" alt="python-logo" width="50" height="50"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spss/spss-original.svg" alt="SPSS-logo" width="50" height="50"/>      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original-wordmark.svg" alt="numpy-logo" width="50" height="50"/>      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original-wordmark.svg" alt="pandas-logo" width="50" height="50"/>    <img src="https://tse2.mm.bing.net/th?id=OIP.V10lF-EdgGdn-LgPGkzcjwHaHa&pid=Api&P=0&w=163&h=163" alt="tableau" width="50" height="50"/>   <img src="https://tse3.mm.bing.net/th?id=OIP.f1JRmsn_IZI-BsxtIpaYTgHaHa&pid=Api&P=0&w=166&h=166" alt="powerbi" width="50" height="50"/>    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" alt="jupiter-logo" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/markdown/markdown-original.svg" alt="markdown-logo" width="50" height="50"/>      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original-wordmark.svg" alt="github-logo" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original-wordmark.svg" alt="jira-logo" width="50" height="50"/>     <img src="https://tse2.mm.bing.net/th?id=OIP.oVQdf94Q8CHyZFMkmvvscAHaEK&pid=Api&P=0&w=298&h=168" alt="Trello-logo" width="50" height="50"/>  <img src="https://tse3.mm.bing.net/th?id=OIP.69k9koGr925aqD2uujSQpgHaEK&pid=Api&P=0&w=304&h=171" alt="microsoft teams" width="50" height="50"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/slack/slack-original-wordmark.svg" alt="slack-Logo" width="50" height="50"/>    
+#### Frameworks, Libraries and Tools
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### Databases
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySql](https://img.shields.io/badge/mysql-20232A.svg?style=for-the-badge&logo=msql&logoColor=white)
+
+#### Hosting and Deployment
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+#### Testing
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
@@ -21,7 +48,7 @@ Also proficient in research designs and development, data management, analysis, 
 
 [![Kevwe's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevweolomu&theme=radical&show_icons=true)](https://github.com/kevweolomu)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8&theme=algolia)](https://github.com/kevweolomu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevweolomu&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
 
@@ -30,9 +57,8 @@ Also proficient in research designs and development, data management, analysis, 
 ---
 
 - 🔭 I’m currently working on a family social media app
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on projects using next.js and gatsby
-- 🤔 I’m looking for help with other content creators
+- 🌱 I’m currently learning everything there is to know about frontend and backend technologies
+- 👯 I’m looking to collaborate on any projects that will allow me learn more and practice skills learnt so far
 - 📫 How to reach me: via linkedin or email
 - 😄 Pronouns: She / Her / Hers
 
@@ -40,16 +66,18 @@ Also proficient in research designs and development, data management, analysis, 
 
 # ⚡ Fun fact about me 🌞
 - Doctoral Researcher in Environmental Studies
-- Graduate of Biochemistry (B.Sc) and Environmental Assessment and Management (M.Sc)
-- Data Analyst
+- I am also a graduate of Biochemistry (B.Sc) and Environmental Assessment and Management (M.Sc)
 - Arsenal Fan
 - Foodie
+- I love singing and am pretty good at it too
 
 ---
 
 ## Get in touch!
-- ✉️ kevweolomu@yahoo.ca 
----
----
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/kevweolomu/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a> 
+<a href="https://twitter.com/KevweOlomu" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a> 
+<!--     <a href="https://kevweolomu.com/">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a> --> 
+  <a href="mailto:kevweolomu@yahoo.ca" title="Write me an email"><img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white"  alt="Yahoo Icon" /></a>
+ </p>
