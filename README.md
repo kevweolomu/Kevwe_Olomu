@@ -4,9 +4,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kevwe_Olomu?style=social)
 
 I am many things:
-- a doctoral research
-- a data analyst
-- a full stack developer
+- Doctoral Researcher
+- Data Analyst
+- Full Stack Developer
 
 But most of all, a passionate and lifelong learner.
 
