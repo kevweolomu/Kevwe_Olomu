@@ -76,7 +76,7 @@ But most of all, a passionate and lifelong learner.
 ## Get in touch!
 <p align="center">
 <a href="https://www.linkedin.com/in/kevweolomu/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a> 
-<a href="https://twitter.com/KevweOlomu" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a> 
+<a href="https://twitter.com/Kevwe_Olomu" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a> 
 <!--     <a href="https://kevweolomu.com/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a> --> 
   <a href="mailto:kevweolomu@yahoo.ca" title="Write me an email"><img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white"  alt="Yahoo Icon" /></a>
