@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Kevwe_Olomu?style=social)
 
-I am many things:
+I am many things: 
 - Doctoral Researcher
 - Data Analyst
 - Full Stack Developer
