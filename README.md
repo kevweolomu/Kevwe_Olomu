@@ -5,8 +5,7 @@
 
 I am many things: 
 - Doctoral Researcher
-- Data Enthusiast
-- Full Stack Developer
+- Data and Technology Enthusiast
 
 But most of all, a passionate and lifelong learner.
 
